@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Bank Management Project</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/bank</name>
+			<type>2</type>
+			<location>C:/Users/bramh/OneDrive/Desktop/Bank Management Project/Bank-Management-System--master/src/bank</location>
+		</link>
+		<link>
+			<name>src/icon</name>
+			<type>2</type>
+			<location>C:/Users/bramh/OneDrive/Desktop/Bank Management Project/Bank-Management-System--master/src/icon</location>
+		</link>
+	</linkedResources>
+</projectDescription>
